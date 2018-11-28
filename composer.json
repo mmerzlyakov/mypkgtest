@@ -1,0 +1,20 @@
+{
+  "name": "mmerzlyakov/mypkgtest",
+  "license": "MIT",
+  "type": "library",
+  "description": "PHP test lib",
+  "keywords": ["test lib"],
+  "homepage": "https://github.com/mmerzlyakov/mypkgtest",
+  "autoload": {
+    "psr-4": {
+      "MMerzlyakov\\MyPkgTest\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6",
+    "psr/log": "^1.0"
+  },
+  "require-dev": {
+
+  }
+}
