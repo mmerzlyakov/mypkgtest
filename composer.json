@@ -1,6 +1,6 @@
 {
   "name": "mmerzlyakov/mypkgtest",
-  "version": "1.0a"
+  "version": "1.0a",
   "license": "MIT",
   "type": "library",
   "description": "PHP test lib",
