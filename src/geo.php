@@ -1,5 +1,7 @@
 <?php
 
+namespace mmerzlyakov\mypkgtest;
+
 class geo 
 {
 	private $code;
