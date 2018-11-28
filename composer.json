@@ -1,7 +1,7 @@
 {
 	"name": "mmerzlyakov/mypkgtest",
 	"version": "1.0",
-	"description": "My Pkg Test",
+	"description": "mypkgtest",
 	"keywords": ["lib", "test"],
 	"homepage": "https://github.com/mmerzlyakov/mypkgtest",
 	"license": "MIT",
@@ -14,7 +14,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"MMerzlyakov\\MyPkgTest\\": "src/"
+			"mmerzlyakov\\mypkgtest\\": "src/"
 		}
 	},
 	"repositories": [{

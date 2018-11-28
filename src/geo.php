@@ -1,11 +1,11 @@
 <?php
 
-class Geo 
+class geo 
 {
 	private $code;
 
 	public function getCode(){
-		return $code;
+		return $this->code;
 	}
 
 	public function setCode($code){
