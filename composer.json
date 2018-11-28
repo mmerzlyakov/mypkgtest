@@ -17,8 +17,13 @@
 			"MMerzlyakov\\MyPkgTest\\": "src/"
 		}
 	},
-	"repositories": {
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	},
+	"repositories": [{
 		"type": "vcs",
 		"url": "https://github.com/mmerzlyakov/mypkgtest.git"
-	}
+	}]
 }
